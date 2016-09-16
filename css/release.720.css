@@ -1,24 +1,27 @@
-/* spa-component-button: release */
-.component.button {
+.stb-component-button {
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
     background-color: #dde9ff;
     display: inline-table;
     height: 46px;
     cursor: pointer; }
-    .component.button:hover {
+    .stb-component-button.hidden {
+        display: none; }
+    .stb-component-button:hover {
         background-color: #bbd3ff; }
-    .component.button.focus {
+    .stb-component-button.focus {
         background-color: #bbd3ff; }
-    .component.button.click {
+    .stb-component-button.click {
         background-color: #a8c9ff; }
-    .component.button .icon {
+    .stb-component-button .icon {
         height: 46px;
         width: 46px;
         display: table-cell;
         background: no-repeat center center; }
-    .component.button .text {
+    .stb-component-button .text {
         display: table-cell;
         padding: 6px 12px;
         vertical-align: middle;
         text-align: center; }
-        .component.button .text:empty {
+        .stb-component-button .text:empty {
             padding: 0; }
