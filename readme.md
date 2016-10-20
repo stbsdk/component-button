@@ -1,9 +1,10 @@
 Button component
 ================
 
-[![Build Status](https://img.shields.io/travis/stbsdk/component-button.svg?style=flat-square)](https://travis-ci.org/stbsdk/component-button)
-[![NPM version](https://img.shields.io/npm/v/stb-component-button.svg?style=flat-square)](https://www.npmjs.com/package/stb-component-button)
-[![Dependencies Status](https://img.shields.io/david/stbsdk/component-button.svg?style=flat-square)](https://david-dm.org/stbsdk/component-button)
+[![build status](https://img.shields.io/travis/stbsdk/component-button.svg?style=flat-square)](https://travis-ci.org/stbsdk/component-button)
+[![npm version](https://img.shields.io/npm/v/stb-component-button.svg?style=flat-square)](https://www.npmjs.com/package/stb-component-button)
+[![dependencies status](https://img.shields.io/david/stbsdk/component-button.svg?style=flat-square)](https://david-dm.org/stbsdk/component-button)
+[![devDependencies status](https://img.shields.io/david/dev/stbsdk/component-button.svg?style=flat-square)](https://david-dm.org/stbsdk/component-button?type=dev)
 [![Gitter](https://img.shields.io/badge/gitter-join%20chat-blue.svg?style=flat-square)](https://gitter.im/DarkPark/stbsdk)
 
 
